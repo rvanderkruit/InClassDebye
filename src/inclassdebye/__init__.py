@@ -1,3 +1,9 @@
+import os 
+
+print("This is some init test")
+
+
+# TODO: Add a function here
 import os
 import numpy as np
 import pandas as pd
